@@ -1,2 +1,2 @@
-# CS-251-Data-Structures
-The class everyone doesn't like
+# Data-Structures
+Coming soon: Program descriptions...
